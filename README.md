@@ -3,10 +3,13 @@
 ### 📌 Introduction
 ✨ DSC Inv. / DdockDdock Inc. Intern  
 &nbsp; ▶️ **QA / Mobile / Back-end** (2024.06 ~ 2024.12)  
+
 ✨ Google Developer Student Clubs Chung-Ang University 4th   
 &nbsp; ▶️ **Back-end Core Member** (2024.9 ~)  
+
 ✨ Google Developer Student Clubs Chung-Ang University 3rd   
 &nbsp; ▶️ **Back-end Member** (2023.9 ~ 2024.8)  
+
 ✨ Chung-Ang University   
 &nbsp; ▶️ Computer Science & Engineering / Software (2021.03 ~ )
 
@@ -14,8 +17,6 @@
 ✨ **2023 LINC 3.0 CAU 캡스톤 경진대회 [공학/자연] 부문 🏆우수상**   
 &nbsp; ▶️ 잔소리 AI 챗봇이 도와주는 소비 습관 개선  
 &nbsp; ▶️ Back-end, AI  
-
-
 
 ✨ **2022 ICT 융합 프로젝트 공모전 🏆최우수상**   
 &nbsp; ▶️ 사용자화 걸음 교정 시스템   
