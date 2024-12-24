@@ -1,31 +1,31 @@
-## Hi there 👋
+# Hi there 👋
 
-### 📌 Introduction
-✨ DSC Inv. / DdockDdock Inc. Intern  
+## 📌 Introduction
+### ✨ DSC Inv. / DdockDdock Inc. Intern  
 &nbsp; ▶️ **QA / Mobile / Back-end** (2024.06 ~ 2024.12)  
 
-✨ Google Developer Student Clubs Chung-Ang University 4th   
+### ✨ Google Developer Student Clubs Chung-Ang University 4th   
 &nbsp; ▶️ **Back-end Core Member** (2024.9 ~)  
 
-✨ Google Developer Student Clubs Chung-Ang University 3rd   
+### ✨ Google Developer Student Clubs Chung-Ang University 3rd   
 &nbsp; ▶️ **Back-end Member** (2023.9 ~ 2024.8)  
 
-✨ Chung-Ang University   
+### ✨ Chung-Ang University   
 &nbsp; ▶️ Computer Science & Engineering / Software (2021.03 ~ )
 
-### 📌 Awards
-✨ **2023 LINC 3.0 CAU 캡스톤 경진대회 [공학/자연] 부문 🏆우수상**   
+## 📌 Awards
+### ✨ **2023 LINC 3.0 CAU 캡스톤 경진대회 [공학/자연] 부문 🏆우수상**   
 &nbsp; ▶️ 잔소리 AI 챗봇이 도와주는 소비 습관 개선  
 &nbsp; ▶️ Back-end, AI  
 
-✨ **2022 ICT 융합 프로젝트 공모전 🏆최우수상**   
+### ✨ **2022 ICT 융합 프로젝트 공모전 🏆최우수상**   
 &nbsp; ▶️ 사용자화 걸음 교정 시스템   
 &nbsp; ▶️ Mobile, Embedded System  
 
-✨ **2019 IMSCC 제 13회 국제 수리과학 창의대회 [메카트로닉스] 부문 🏆장려상**  
+### ✨ **2019 IMSCC 제 13회 국제 수리과학 창의대회 [메카트로닉스] 부문 🏆장려상**  
 
 
-### 📌 Other Project
+## 📌 Other Project
 |Title|Subject|
 |---|---|
 |2023 LINC 3.0 CAU 캡스톤 경진대회 🏆우수상|잔소리 AI 챗봇이 도와주는 소비 습관 개선|
@@ -39,10 +39,10 @@
 ||교차로 제어 프로그램|
 ||LL Parser|
 
-### Certificate
-✨ 정보처리기사  
-✨ SQLD  
-✨ TOPCIT 수준3 (Competent)  
+## Certificate
+### ✨ 정보처리기사  
+### ✨ SQLD  
+### ✨ TOPCIT 수준3 (Competent)  
 
 <!--
 **alsrudrl1220/alsrudrl1220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
