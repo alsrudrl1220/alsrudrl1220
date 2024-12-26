@@ -30,11 +30,12 @@
 |---|---|
 |2023 LINC 3.0 CAU 캡스톤 경진대회 🏆우수상|[잔소리 AI 챗봇이 도와주는 소비 습관 개선](https://github.com/alsrudrl1220/Walletty)|
 |2022 ICT 융합 프로젝트 공모전 🏆최우수상 |사용자화 걸음 교정 시스템|
-|2024 Google Delveloper Student Clubs Solution Challenge|다문화 가정 자녀들의 언어 교육을 위한 이중 언어 동화 구연 플랫폼|
-|Google Delveloper Student Clubs Project|푸앙이 사진관 (AI 프로필 서비스)|
-||Find your SPOTS!|
-||GUI Git Manager|
-||VC Works 모바일 앱 ([IOS](https://apps.apple.com/kr/app/vcworks/id6738978723), [Android](https://play.google.com/store/apps/details?id=com.vcworks.mobile&hl=ko))|
+|2024 Google Delveloper Student Clubs Solution Challenge|[다문화 가정 자녀들의 언어 교육을 위한 이중 언어 동화 구연 플랫폼](https://github.com/GDSC-CAU/FTIsland-BE)|
+|Google Delveloper Student Clubs Project|[푸앙이 사진관 (AI 프로필 서비스)](https://github.com/GDSC-CAU/PuangFilm-BE)|
+||[Find your SPOTS!](https://github.com/SpotSpots/spots_front)|
+||[GUI Git Manager](https://github.com/alsrudrl1220/GUI-Git-Manager)|
+||VC works 모바일 앱 ([IOS](https://apps.apple.com/kr/app/vcworks/id6738978723), [Android](https://play.google.com/store/apps/details?id=com.vcworks.mobile&hl=ko))|
+||VC works / ST works API |
 ||영상 업무 자동화 프로그램|
 ||교차로 제어 프로그램|
 ||LL Parser|
