@@ -40,7 +40,7 @@
 ||교차로 제어 프로그램|
 ||LL Parser|
 
-## Certificate
+## 📌 Certificate
 ### ✨ 정보처리기사  
 ### ✨ SQLD  
 ### ✨ TOPCIT 수준3 (Competent)  
