@@ -11,7 +11,7 @@
 &nbsp; ▶️ **Back-end Member** (2023.9 ~ 2024.8)  
 
 ### ✨ Chung-Ang University   
-&nbsp; ▶️ Computer Science & Engineering / Software (2021.03 ~ )
+&nbsp; ▶️ **Computer Science & Engineering / Software** (2021.03 ~ )
 
 ## 📌 Awards
 ### ✨ **2023 LINC 3.0 CAU 캡스톤 경진대회 [공학/자연] 부문 🏆우수상**   
