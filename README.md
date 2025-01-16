@@ -34,10 +34,10 @@
 |Google Delveloper Student Clubs Project|[푸앙이 사진관 (AI 프로필 서비스)](https://github.com/GDSC-CAU/PuangFilm-BE)|
 |Mobile App|[Find your SPOTS!](https://github.com/SpotSpots/spots_front)|
 |Open Source SW programming|[GUI Git Manager](https://github.com/alsrudrl1220/GUI-Git-Manager)|
-|DSC Inv. / DdockDdock Inc. Intern|VCworks 모바일 앱 ([IOS](https://apps.apple.com/kr/app/vcworks/id6738978723), [Android](https://play.google.com/store/apps/details?id=com.vcworks.mobile&hl=ko))|
-|DSC Inv. / DdockDdock Inc. Intern|VCworks / STworks (Springboot, JPA)|
-|DSC Inv. / DdockDdock Inc. Intern|영상 업무 자동화 프로그램 (Python, Groovy)|
-|DSC Inv. / DdockDdock Inc. Intern|e2e 테스트 자동화 프로그램 (Groovy, Katalon)|
+|DSC Inv. / DdockDdock Inc. Intern [Mobile]|VCworks 모바일 앱 ([IOS](https://apps.apple.com/kr/app/vcworks/id6738978723), [Android](https://play.google.com/store/apps/details?id=com.vcworks.mobile&hl=ko))|
+|DSC Inv. / DdockDdock Inc. Intern [Back-end]|VCworks / STworks (Springboot, JPA)|
+|DSC Inv. / DdockDdock Inc. Intern [QA]|영상 업무 자동화 프로그램 (Python, Groovy)|
+|DSC Inv. / DdockDdock Inc. Intern [QA]|e2e 테스트 자동화 프로그램 (Groovy, Katalon)|
 |Operating System|교차로 제어 프로그램 (C)|
 |Programming Language|LL Parser (C) |
 
