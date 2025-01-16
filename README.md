@@ -3,7 +3,7 @@
 
 
 ## 📌 Introduction
-### 🏦 DSC Inv. / DdockDdock Inc. Intern  
+### 🏢 DSC Inv. / DdockDdock Inc. Intern  
 <!--&nbsp; ▶️ **QA / Mobile / Back-end** (2024.06 ~ 2024.12)  -->
 &nbsp; ▶️ **<code>QA</code> / <code>Mobile</code> / <code>Back-end</code>** (2024.06 ~ 2024.12)  
 
@@ -15,7 +15,7 @@
 <!--&nbsp; ▶️ **Back-end Member** (2023.9 ~ 2024.8)  -->
 &nbsp; ▶️ **<code>Back-end</code> Member** (2023.9 ~ 2024.8)  
 
-### 🏤 Chung-Ang University   
+### 🏫 Chung-Ang University   
 &nbsp; ▶️ **Computer Science & Engineering / Software** (2021.03 ~ )
 
 <br/>
