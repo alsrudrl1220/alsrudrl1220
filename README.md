@@ -4,7 +4,7 @@
 ### ◾ DSC Inv. / DdockDdock Inc. Intern  
 &nbsp; ▶️ **QA / Mobile / Back-end** (2024.06 ~ 2024.12)  
 
-### ◾ Google Developer Student Clubs Chung-Ang University 4th   
+### ◾ Google Developer Groups on Campus Chung-Ang University 4th   
 &nbsp; ▶️ **Back-end Core Member** (2024.9 ~)  
 
 ### ◾ Google Developer Student Clubs Chung-Ang University 3rd   
