@@ -18,6 +18,8 @@
 ### 🏤 Chung-Ang University   
 &nbsp; ▶️ **Computer Science & Engineering / Software** (2021.03 ~ )
 
+<br/>
+
 ## 📌 Awards
 ### ◾ **2023 LINC 3.0 CAU 캡스톤 경진대회 [공학/자연] 부문 🏆우수상**   
 &nbsp; ▶️ 잔소리 AI 챗봇이 도와주는 소비 습관 개선  
@@ -31,6 +33,7 @@
 
 ### ◾ **2019 IMSCC 제 13회 국제 수리과학 창의대회 [메카트로닉스] 부문 🏆장려상**  
 
+<br/>
 
 ## 📌 Project
 |Title|Subject|
@@ -46,15 +49,47 @@
 |Mobile App <code>Mobile</code>|[Find your SPOTS!](https://github.com/SpotSpots/spots_front) <code>Flutter</code>, <code>Dart</code>|
 |Open Source SW programming <code>exe</code>|[GUI Git Manager](https://github.com/alsrudrl1220/GUI-Git-Manager) <code>Python</code>|
 |Operating System <code>exe</code>|교차로 제어 프로그램 <code>C</code>|
-|Programming Language <code>exe</code>|LL Parser <code>C</code> |
+|Programming Language <code>exe</code>|LL Parser <code>C</code> |      
+
+<br/>
+
+## 📌 Tech Stack
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+<br/>
 
 ## 📌 Certificate
 ### ◾ 정보처리기사
 ### ◾ SQLD  
 ### ◾ TOPCIT 소프트웨어 역량 검정 Level 3 (Competent)    
 
+<br/>
 
+## 📌 Contact Me
+<a href="https://www.instagram.com/mi_n_kxxz/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-F6CEF5?style=flat&logo=Instagram&link=https://www.instagram.com/mi_n_kxxz/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
+<br/>
+<br/>
+<br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falsrudrl1220&count_bg=%2398A4DD&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
