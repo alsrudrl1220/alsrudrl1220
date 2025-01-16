@@ -5,7 +5,7 @@
 ## 📌 Introduction
 ### 🏢 DSC Inv. / DdockDdock Inc. Intern  
 <!--&nbsp; ▶️ **QA / Mobile / Back-end** (2024.06 ~ 2024.12)  -->
-&nbsp; ▶️ **<code>QA</code> / <code>Mobile</code> / <code>Back-end</code>** (2024.06 ~ 2024.12)  
+&nbsp; ▶️ **<code>Back-end</code> / <code>QA</code> / <code>Mobile</code>** (2024.06 ~ 2024.12)  
 
 ### ✨ Google Developer Groups on Campus Chung-Ang University 4th   
 <!-- &nbsp; ▶️ **Back-end Core Member** (2024.9 ~)  -->
@@ -42,10 +42,10 @@
 |2022 ICT 융합 프로젝트 공모전 🏆**최우수상** |사용자화 걸음 교정 시스템|
 |2024 Google Delveloper Student Clubs Solution Challenge <code>Back-end</code>, <code>AI</code> |[다문화 가정 자녀들의 언어 교육을 위한 이중 언어 동화 구연 플랫폼](https://github.com/GDSC-CAU/FTIsland-BE) <code>Springboot</code>, <code>Java</code>|
 |Google Delveloper Student Clubs Project <code>Back-end</code>|[푸앙이 사진관 (AI 프로필 서비스)](https://github.com/GDSC-CAU/PuangFilm-BE) <code>Springboot</code>, <code>Java</code>|
-|DSC Inv. / DdockDdock Inc. <code>Mobile</code>|VCworks 모바일 앱 ([IOS](https://apps.apple.com/kr/app/vcworks/id6738978723), [Android](https://play.google.com/store/apps/details?id=com.vcworks.mobile&hl=ko)) <code>Flutter</code>, <code>Dart</code>|
 |DSC Inv. / DdockDdock Inc. <code>Back-end</code>|[VCworks](https://vcworks.kr/cm0001?returnUrl=JTJG) / [STworks](https://stworks.kr/scm001) <code>Springboot</code>, <code>Java</code>|
-|DSC Inv. / DdockDdock Inc. <code>QA</code>|영상 업무 자동화 프로그램 <code>Python</code>, <code>Groovy</code>|
 |DSC Inv. / DdockDdock Inc. <code>QA</code>|e2e 테스트 자동화 프로그램 <code>Groovy</code>, <code>Katalon</code>|
+|DSC Inv. / DdockDdock Inc. <code>QA</code>|영상 업무 자동화 프로그램 <code>Python</code>, <code>Groovy</code>|
+|DSC Inv. / DdockDdock Inc. <code>Mobile</code>|VCworks 모바일 앱 ([IOS](https://apps.apple.com/kr/app/vcworks/id6738978723), [Android](https://play.google.com/store/apps/details?id=com.vcworks.mobile&hl=ko)) <code>Flutter</code>, <code>Dart</code>|
 |Mobile App <code>Mobile</code>|[Find your SPOTS!](https://github.com/SpotSpots/spots_front) <code>Flutter</code>, <code>Dart</code>|
 |Open Source SW programming <code>exe</code>|[GUI Git Manager](https://github.com/alsrudrl1220/GUI-Git-Manager) <code>Python</code>|
 |Operating System <code>exe</code>|교차로 제어 프로그램 <code>C</code>|
