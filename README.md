@@ -7,11 +7,11 @@
 <!--&nbsp; ▶️ **QA / Mobile / Back-end** (2024.06 ~ 2024.12)  -->
 &nbsp; ▶️ **<code>QA</code> / <code>Mobile</code> / <code>Back-end</code>** (2024.06 ~ 2024.12)  
 
-### 🔥 Google Developer Groups on Campus Chung-Ang University 4th   
+### ✨ Google Developer Groups on Campus Chung-Ang University 4th   
 <!-- &nbsp; ▶️ **Back-end Core Member** (2024.9 ~)  -->
 &nbsp; ▶️ **<code>Back-end</code> Core Member** (2024.9 ~)  
 
-### 🔥 Google Developer Student Clubs Chung-Ang University 3rd   
+### ✨ Google Developer Student Clubs Chung-Ang University 3rd   
 <!--&nbsp; ▶️ **Back-end Member** (2023.9 ~ 2024.8)  -->
 &nbsp; ▶️ **<code>Back-end</code> Member** (2023.9 ~ 2024.8)  
 
@@ -21,17 +21,17 @@
 <br/>
 
 ## 📌 Awards
-### ◾ **2023 LINC 3.0 CAU 캡스톤 경진대회 [공학/자연] 부문 🏆우수상**   
+### ▪️ **2023 LINC 3.0 CAU 캡스톤 경진대회 [공학/자연] 부문 🏆우수상**   
 &nbsp; ▶️ 잔소리 AI 챗봇이 도와주는 소비 습관 개선  
 &nbsp; ▶️ <code>Back-end</code>, <code>AI</code>  
 &nbsp; ▶️ <code>Springboot</code>, <code>Java</code>     
 
-### ◾ **2022 ICT 융합 프로젝트 공모전 🏆최우수상**   
+### ▪️ **2022 ICT 융합 프로젝트 공모전 🏆최우수상**   
 &nbsp; ▶️ 사용자화 걸음 교정 시스템   
 &nbsp; ▶️ <code>Mobile</code>, <code>Embedded System</code>  
 &nbsp; ▶️ <code>Flutter</code>, <code>Dart</code>      
 
-### ◾ **2019 IMSCC 제 13회 국제 수리과학 창의대회 [메카트로닉스] 부문 🏆장려상**  
+### ▪️ **2019 IMSCC 제 13회 국제 수리과학 창의대회 [메카트로닉스] 부문 🏆장려상**  
 
 <br/>
 
@@ -74,9 +74,9 @@
 <br/>
 
 ## 📌 Certificate
-### ◾ 정보처리기사
-### ◾ SQLD  
-### ◾ TOPCIT 소프트웨어 역량 검정 Level 3 (Competent)    
+### ▪️ 정보처리기사
+### ▪️ SQLD  
+### ▪️ TOPCIT 소프트웨어 역량 검정 Level 3 (Competent)    
 
 <br/>
 
