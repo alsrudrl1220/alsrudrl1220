@@ -35,7 +35,7 @@
 |Mobile App|[Find your SPOTS!](https://github.com/SpotSpots/spots_front)|
 |Open Source SW programming|[GUI Git Manager](https://github.com/alsrudrl1220/GUI-Git-Manager)|
 |DSC Inv. / DdockDdock Inc. Intern [Mobile]|VCworks 모바일 앱 ([IOS](https://apps.apple.com/kr/app/vcworks/id6738978723), [Android](https://play.google.com/store/apps/details?id=com.vcworks.mobile&hl=ko))|
-|DSC Inv. / DdockDdock Inc. Intern [Back-end]|VCworks / STworks (Springboot, JPA)|
+|DSC Inv. / DdockDdock Inc. Intern [Back-end]|[VCworks](https://vcworks.kr/cm0001?returnUrl=JTJG) / [STworks](https://stworks.kr/scm001) (Springboot, JPA)|
 |DSC Inv. / DdockDdock Inc. Intern [QA]|영상 업무 자동화 프로그램 (Python, Groovy)|
 |DSC Inv. / DdockDdock Inc. Intern [QA]|e2e 테스트 자동화 프로그램 (Groovy, Katalon)|
 |Operating System|교차로 제어 프로그램 (C)|
