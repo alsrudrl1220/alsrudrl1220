@@ -34,7 +34,7 @@
 ### ▶️ **2022 ICT 융합 프로젝트 공모전 🏆최우수상**   
 &nbsp; ▪️ 사용자화 걸음 교정 시스템   
 &nbsp; ▪️ <code>Mobile</code>, <code>Embedded System</code>  
-&nbsp; ▪️ <code>Flutter</code>, <code>Dart</code>, <code>ATmega128</code>      
+&nbsp; ▪️ <code>Flutter</code>, <code>Dart</code>, <code>ATmega128</code>, <code>C</code>      
 
 ### ▶️ **2019 IMSCC 제 13회 국제 수리과학 창의대회 [메카트로닉스] 부문 🏆장려상**  
 
@@ -44,7 +44,7 @@
 |Title|Subject|
 |---|---|
 |2023 LINC 3.0 CAU 캡스톤 경진대회 🏆**우수상**|[잔소리 AI 챗봇이 도와주는 소비 습관 개선](https://github.com/alsrudrl1220/Walletty)|
-|2022 ICT 융합 프로젝트 공모전 🏆**최우수상** |사용자화 걸음 교정 시스템|
+|2022 ICT 융합 프로젝트 공모전 🏆**최우수상** |[사용자화 걸음 교정 시스템](https://github.com/alsrudrl1220/ict-project-flutter-atmega128)|
 |2025 GDGoC New Year Hackathon: 백야 🏆**우수상**|[시니어의 경험을 바탕으로 청년에게 취업 정보를 제공하는 플랫폼](https://github.com/alsrudrl1220/NanuJOB)|
 |2024 Google Delveloper Student Clubs Solution Challenge <code>Back-end</code>, <code>AI</code> |[다문화 가정 자녀들의 언어 교육을 위한 이중 언어 동화 구연 플랫폼](https://github.com/GDSC-CAU/FTIsland-BE) <code>Springboot</code>, <code>Java</code>|
 |Google Delveloper Student Clubs Project <code>Back-end</code>|[푸앙이 사진관 (AI 프로필 서비스)](https://github.com/GDSC-CAU/PuangFilm-BE) <code>Springboot</code>, <code>Java</code>|
