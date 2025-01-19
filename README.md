@@ -21,6 +21,11 @@
 <br/>
 
 ## 📌 Awards
+### ▶️ **2025 GDGoC New Year Hackathon: 백야 🏆우수상**
+&nbsp; ▪️ 시니어의 경험을 바탕으로 청년에게 취업 정보를 제공하는 플랫폼   
+&nbsp; ▪️ <code>Mobile</code>, <code>Design</code>, <code>AI</code>  
+&nbsp; ▪️ <code>Flutter</code> 
+
 ### ▶️ **2023 LINC 3.0 CAU 캡스톤 경진대회 [공학/자연] 부문 🏆우수상**   
 &nbsp; ▪️ 잔소리 AI 챗봇이 도와주는 소비 습관 개선  
 &nbsp; ▪️ <code>Back-end</code>, <code>AI</code>  
@@ -140,6 +145,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/alsrudrl1220"
+  width="600"
+  height="300"
+/>
+</a>
 
 |Period|Title|Subject|
 |------|---|---|
