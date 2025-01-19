@@ -24,7 +24,7 @@
 ### ▶️ **2025 GDGoC New Year Hackathon: 백야 🏆우수상**
 &nbsp; ▪️ 시니어의 경험을 바탕으로 청년에게 취업 정보를 제공하는 플랫폼   
 &nbsp; ▪️ <code>Mobile</code>, <code>Design</code>, <code>AI</code>  
-&nbsp; ▪️ <code>Flutter</code> 
+&nbsp; ▪️ <code>Flutter</code>, <code>Dart</code>
 
 ### ▶️ **2023 LINC 3.0 CAU 캡스톤 경진대회 [공학/자연] 부문 🏆우수상**   
 &nbsp; ▪️ 잔소리 AI 챗봇이 도와주는 소비 습관 개선  
