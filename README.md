@@ -111,9 +111,9 @@
 <br/>
 
 ## 📌 Certificate
-### ▶️ 정보처리기사
-### ▶️ SQLD  
-### ▶️ TOPCIT 소프트웨어 역량 검정 Level 3 (Competent)    
+**▶️ 정보처리기사**     
+**▶️ SQLD**     
+**▶️ TOPCIT 소프트웨어 역량 검정 Level 3 (Competent)**     
 
 <br/>
 
