@@ -34,7 +34,8 @@
 ### ▶️ **2022 ICT 융합 프로젝트 공모전 🏆최우수상**   
 &nbsp; ▪️ 사용자화 걸음 교정 시스템   
 &nbsp; ▪️ <code>Mobile</code>, <code>Embedded System</code>, <code>Data Analysis</code>    
-&nbsp; ▪️ <code>Flutter</code>, <code>Dart</code>, <code>ATmega128</code>, <code>C</code>, <code>Teraterm</code>, <code>AtmelStudio</code>      
+&nbsp; ▪️ <code>Flutter</code>, <code>Dart</code>, <code>ATmega128</code>, <code>C</code>, <code>UART</code>     
+&nbsp; ▪️ <code>Teraterm</code>, <code>AtmelStudio</code>, <code>Excel</code>        
 
 ### ▶️ **2019 IMSCC 제 13회 국제 수리과학 창의대회 [메카트로닉스] 부문 🏆장려상**  
 
