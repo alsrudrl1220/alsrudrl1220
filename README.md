@@ -37,9 +37,11 @@
 &nbsp; ▪️ <code>Flutter</code>, <code>Dart</code>, <code>ATmega128</code>, <code>C</code>, <code>UART</code>     
 &nbsp; ▪️ <code>Teraterm</code>, <code>AtmelStudio</code>, <code>Excel</code>        
 
-### ▶️ **2019 IMSCC 제 4회 국제 수리과학창의대회 [메카트로닉스] 부문 🏆장려상**  
+### ▶️ **2018 IMSCC 제 4회 국제 수리과학창의대회 [메카트로닉스] 부문 🏆장려상**  
 &nbsp; ▪️ 뗏목형 바닥면의 재난 구조용 수륙양용 6륜 자동차 로봇     
-&nbsp; ▪️ <code>Embedded System</code>, <code>Frame Design</code>    
+&nbsp; ▪️ <code>Embedded System</code>, <code>Frame Design</code>  
+&nbsp; ▪️ <code>Micro:bit</code>                                     
+\# 말레이시아 알람샤 과학중등학교 교환학생 메카트로닉스 수업 진행 및 조교 활동
 
 <br/>
 
