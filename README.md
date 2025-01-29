@@ -41,7 +41,7 @@
 &nbsp; ▪️ 뗏목형 바닥면의 재난 구조용 수륙양용 6륜 자동차 로봇     
 &nbsp; ▪️ <code>Embedded System</code>, <code>Frame Design</code>  
 &nbsp; ▪️ <code>Micro:bit</code>                                     
-\# 말레이시아 알람샤 과학중등학교 교환학생 메카트로닉스 수업 진행 및 조교 활동
+&nbsp; ✨ SM Sains Alam Shah Science Secondary School In Malaysia 교환학생 메카트로닉스 수업 진행 및 조교 활동
 
 <br/>
 
