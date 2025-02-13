@@ -16,7 +16,7 @@
 &nbsp; ▪️ **<code>Back-end</code> Member** (2023.9 ~ 2024.8)  
 
 ### 🏫 Chung-Ang University   
-&nbsp; ▪️ **Computer Science & Engineering / Software** (2021.03 ~ )
+&nbsp; ▪️ **Computer Science & Engineering (Software)** (2021.03 ~ )
 
 <br/>
 
