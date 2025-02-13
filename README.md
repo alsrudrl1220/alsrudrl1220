@@ -21,6 +21,11 @@
 <br/>
 
 ## 📌 Awards
+### ▶️ **2025 GDGoC x UMC 연합 해커톤: 청룡톤 🏆우수상**
+&nbsp; ▪️ 공지 통합 서비스   
+&nbsp; ▪️ <code>Mobile</code>, <code>Design</code>  
+&nbsp; ▪️ <code>Flutter</code>, <code>Dart</code>
+
 ### ▶️ **2025 GDGoC New Year Hackathon: 백야 🏆우수상**
 &nbsp; ▪️ 시니어의 경험을 바탕으로 청년에게 취업 정보를 제공하는 플랫폼   
 &nbsp; ▪️ <code>Mobile</code>, <code>Design</code>, <code>AI</code>  
