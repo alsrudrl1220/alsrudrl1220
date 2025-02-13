@@ -47,6 +47,7 @@
 &nbsp; ▪️ <code>Embedded System</code>, <code>Frame Design</code>  
 &nbsp; ▪️ <code>Micro:bit</code>, <code>4D Frame</code>                                     
 &nbsp; ✨ SM Sains Alam Shah Science Secondary School In Malaysia 교환학생 메카트로닉스 수업 진행 및 조교 활동
+&nbsp; ✨ BYHS Micro:bit 메이커스 방과후 수업 강사
 
 <br/>
 
