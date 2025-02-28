@@ -3,13 +3,15 @@
 
 
 ## 📌 Introduction
+### 🏢 Mirae Asset Securities Co., Ltd. Intern
+&nbsp; ▪️ **<code>IT</code>** (2025.03 ~ )  
 ### 🏢 DSC Inv. / DdockDdock Inc. Intern  
 <!--&nbsp; ▶️ **QA / Mobile / Back-end** (2024.06 ~ 2024.12)  -->
 &nbsp; ▪️ **<code>Back-end</code> / <code>QA</code> / <code>Mobile</code>** (2024.06 ~ 2024.12)  
 
 ### ✨ Google Developer Groups on Campus Chung-Ang University 4th   
 <!-- &nbsp; ▶️ **Back-end Core Member** (2024.9 ~)  -->
-&nbsp; ▪️ **<code>Back-end</code> Core Member** (2024.9 ~)  
+&nbsp; ▪️ **<code>Back-end</code> Core Member** (2024.9 ~ )  
 
 ### ✨ Google Developer Student Clubs Chung-Ang University 3rd   
 <!--&nbsp; ▶️ **Back-end Member** (2023.9 ~ 2024.8)  -->
