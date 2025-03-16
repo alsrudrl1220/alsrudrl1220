@@ -3,8 +3,6 @@
 
 
 ## 📌 Introduction
-### 🏢 Mirae Asset Securities Co., Ltd. Intern
-&nbsp; ▪️ **<code>IT</code>** (2025.03 ~ )  
 ### 🏢 DSC Inv. / DdockDdock Inc. Intern  
 <!--&nbsp; ▶️ **QA / Mobile / Back-end** (2024.06 ~ 2024.12)  -->
 &nbsp; ▪️ **<code>Back-end</code> / <code>QA</code> / <code>Mobile</code>** (2024.06 ~ 2024.12)  
